@@ -92,6 +92,8 @@ function NavBar() {
                 </a>
               </li>
 
+              //Search button 
+
               <li>
                 <button className="bg-green-300 hover:bg-magenta-300 text-white py-2 block px-4 rounded-lg">
                   Donate Now
